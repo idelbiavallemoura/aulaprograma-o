@@ -1,0 +1,26 @@
+Body{
+   font-family: ;
+   margin: 0 :
+   padding: 0;
+}
+header{
+
+    background-color: brown;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+main{
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+section {
+
+    width: 40%;
+    margin-bottom:  20px
+    display:
+
+}
